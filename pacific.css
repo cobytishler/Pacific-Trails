@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    color: #666666;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+header {
+    background-color: #002171;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav {
+    background-color: #BBDEFB;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    font-weight: bold;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.70em;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+.resort {
+    color: #1976D2;
+    font-size: 1.2em;
+}
